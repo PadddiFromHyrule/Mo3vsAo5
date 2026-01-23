@@ -1,0 +1,2 @@
+# Calculation of success probabilities for Mo3 vs. Ao5
+Short Jupyter Notebook, that compares the probabilities of getting at least one success and getting an mean/average in 3BLD in the formats B03 and Bo5.
